@@ -1,0 +1,8 @@
+# Keep local references, backups, credentials, and editor files out of publication.
+.eyequest-work/
+*.original.html
+*.fragment.html
+.env
+.env.*
+.DS_Store
+Thumbs.db
